@@ -10,6 +10,6 @@ All solutions were coded using Google Colaboratory.
 * [Project #3 - Artificial Neuron Networks](https://github.com/tmatthias/machine-learning-mooc/blob/main/Artificial_Neuron_Networks.ipynb)
 
 ## Challenge completed:
-* [Challenge #1 - Pre-trained model](https://github.com/tidimatthias/machine-learning-mooc/blob/main/Challenge_pre_trained_model.ipynb)
+* [Challenge #1 - Pre-trained model](https://github.com/tmatthias/machine-learning-mooc/blob/main/Challenge_pre_trained_model.ipynb)
 
 Upon completion I was certified by Code First Girls: [**click here**](https://1drv.ms/b/s!AmsqrPxrw1gOtHJeXdvsZsYzFeaB?e=kctFXK)
