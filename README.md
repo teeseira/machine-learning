@@ -4,7 +4,7 @@ This repository contains all of my Python code submissions in relation to the Ma
 
 All solutions were coded using Google Colaboratory.
 
-## Labs completed:
+## Projects completed:
 * [Project #1 - K-Nearest Neighbour](https://github.com/tmatthias/machine-learning-mooc/blob/main/K_Nearest_Neighbour.ipynb)
 * [Project #2 - Linear Regression](https://github.com/tmatthias/machine-learning-mooc/blob/main/Linear_Regression.ipynb)
 * [Project #3 - Artificial Neuron Networks](https://github.com/tmatthias/machine-learning-mooc/blob/main/Artificial_Neuron_Networks.ipynb)
