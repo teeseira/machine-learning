@@ -1,4 +1,4 @@
-# Machine Learning MOOC
+# Machine Learning Project
 
 This repository contains all of my Python code submissions in relation to the Machine Learning MOOC organised by Code First Girls.
 
