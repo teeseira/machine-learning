@@ -5,9 +5,9 @@ This repository contains all of my Python code submissions in relation to the Ma
 All solutions were coded using Google Colaboratory.
 
 ## Labs completed:
-* [Lab #1 - K-Nearest Neighbour](https://github.com/tidimatthias/machine-learning-mooc/blob/main/Lab_K_Nearest_Neighbour.ipynb)
-* [Lab #2 - Linear Regression](https://github.com/tidimatthias/machine-learning-mooc/blob/main/Lab_Linear_Regression.ipynb)
-* [Lab #3 - Artificial Neuron Networks](https://github.com/tidimatthias/machine-learning-mooc/blob/main/Lab_Artificial_Neuron_Networks.ipynb)
+* [Project #1 - K-Nearest Neighbour](https://github.com/tidimatthias/machine-learning-mooc/blob/main/Lab_K_Nearest_Neighbour.ipynb)
+* [Project #2 - Linear Regression](https://github.com/tidimatthias/machine-learning-mooc/blob/main/Lab_Linear_Regression.ipynb)
+* [Project #3 - Artificial Neuron Networks](https://github.com/tidimatthias/machine-learning-mooc/blob/main/Lab_Artificial_Neuron_Networks.ipynb)
 
 ## Challenge completed:
 * [Challenge #1 - Pre-trained model](https://github.com/tidimatthias/machine-learning-mooc/blob/main/Challenge_pre_trained_model.ipynb)
