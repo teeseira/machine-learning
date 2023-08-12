@@ -1,6 +1,6 @@
 # Machine Learning
 
-This repository contains all of my Python code submissions using YOLOv8.
+This repository contains all of my Python code submissions.
 All my solutions were coded using Google Colaboratory.
 
 ## Projects completed:
